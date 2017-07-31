@@ -1,0 +1,6 @@
+__history
+Win32
+*.dcu
+*.dproj.local
+*.identcache
+*.bak
